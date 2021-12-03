@@ -89,6 +89,15 @@
 			path = SubViews;
 			sourceTree = "<group>";
 		};
+		79500E702759FA84004C6F89 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				79B680A92757BB6E00E458E5 /* Navigation.swift */,
+				79B680AC2757C5C600E458E5 /* CustomEnviromentProperties.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
 		7977E5F72754D0E300E1BD1E /* Models */ = {
 			isa = PBXGroup;
 			children = (
@@ -116,14 +125,13 @@
 		798B56312750F26F008449E5 /* SwiftUILearning */ = {
 			isa = PBXGroup;
 			children = (
-				798B56322750F26F008449E5 /* SwiftUILearningApp.swift */,
-				7938739B2754F5E00036EC06 /* Views */,
 				7977E5F72754D0E300E1BD1E /* Models */,
+				7938739B2754F5E00036EC06 /* Views */,
+				79500E702759FA84004C6F89 /* Utils */,
+				798B56322750F26F008449E5 /* SwiftUILearningApp.swift */,
 				798B56362750F27E008449E5 /* Assets.xcassets */,
 				798B563B2750F27E008449E5 /* Info.plist */,
 				798B56382750F27E008449E5 /* Preview Content */,
-				79B680A92757BB6E00E458E5 /* Navigation.swift */,
-				79B680AC2757C5C600E458E5 /* CustomEnviromentProperties.swift */,
 			);
 			path = SwiftUILearning;
 			sourceTree = "<group>";
