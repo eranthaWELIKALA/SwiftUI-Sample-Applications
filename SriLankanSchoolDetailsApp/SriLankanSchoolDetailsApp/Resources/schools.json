@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Ananda Vidyalaya",
+        "district": "Colombo",
+        "description": "Ananda College (Sinhala: ආනන්ද විද්‍යාලය) is a Buddhist school for Sri Lankan boys, with classes from primary to secondary, on a campus of 15 acres (61,000 m2) in Maradana, Colombo.",
+        "location": {
+            "latitude": 6.927754424835294,
+            "longitude": 79.86859790594478
+        },
+        "isFavorite": false,
+        "imageName": "ananda"
+    },
+    {
+        "name": "Devi Balika Vidyalaya",
+        "district": "Colombo",
+        "description": "Devi Balika Vidyalaya is a public national girls' school in Colombo, Sri Lanka. Girls are admitted at grade six, based on the results of an island-wide scholarship examination. Like other national schools it is controlled by the central government, as opposed to a provincial council.",
+        "location": {
+            "latitude": 6.910427659451934,
+            "longitude": 79.88249791403464
+        },
+        "isFavorite": true,
+        "imageName": "devi"
+    },
+    {
+        "name": "Dharmaraja College",
+        "district": "Kandy",
+        "description": "Dharmaraja College (Sinhala: ධර්මරාජ විද්‍යාලය), founded in 1887, is a boys' school in Kandy, Sri Lanka. It is a Buddhist school with around 300+ teaching staff and around 5000+ students.[5] The school has many notable alumni (a.k.a. Rajans) including William Gopallawa, A. E. Goonesinha, T.B Kehelgamuwa, Chamara Kapugedera and others.",
+        "location": {
+            "latitude": 7.2898563215631595,
+            "longitude": 80.64799007154758
+        },
+        "isFavorite": false,
+        "imageName": "dharmaraja"
+    },
+    {
+        "name": "DS Senanayake College",
+        "district": "Colombo",
+        "description": "D. S. Senanayake College (Sinhala: ඩී.එස්.සේනානායක විද්‍යාලය D. S. Senanayaka Vidyalaya, also referred to as DS and DSSC) is a boys' primary and secondary national school in Cinnamon Gardens, Colombo, Western Province, Sri Lanka. It was established on 10 February 1967 under the stewardship of R. I. T. Alles, and was named after the first Prime Minister of Sri Lanka, D. S. Senanayake.",
+        "location": {
+            "latitude": 7.2903837581194475,
+            "longitude": 80.64713904537552
+        },
+        "isFavorite": false,
+        "imageName": "ds"
+    },
+    {
+        "name": "Kandy High School",
+        "district": "Kandy",
+        "description": "Girls' High School, Kandy is a national girls' school located in Kandy, Sri Lanka. It was founded in 1879 by Wesleyan Methodist missionaries and the oldest school for girls in Kandy affiliated with the Methodist Church in Sri Lanka.",
+        "location": {
+            "latitude": 7.287105017900196,
+            "longitude": 80.62676312972461
+        },
+        "isFavorite": true,
+        "imageName": "high_school"
+    },
+    {
+        "name": "Kingswood College",
+        "district": "Kandy",
+        "description": "Kingswood College (Sinhala: කින්ස්වුඩ් විද්‍යාලය Tamil: கிங்ஸ்வுட் கல்லூரி) is a Public school which offers primary and secondary education for boys in Sri Lanka. The school was founded by L. E. Blaze on 4 May 1891, with 11 students at a site on Pavilion Street in Kandy. Later, the school was moved to a site on Peradeniya Road. Since then, the school has grown considerably, having over 3,500 students and 200 faculty members. It is one of the oldest schools in Kandy, and is commonly known as KCK.",
+        "location": {
+            "latitude": 7.277925310579328,
+            "longitude": 80.61567382944429
+        },
+        "isFavorite": false,
+        "imageName": "kingswood"
+    },
+    {
+        "name": "Nalanda Vidyalaya",
+        "district": "Colombo",
+        "description": "Nalanda College (Sinhala: නාලන්දා විද්‍යාලය) is a 100% Buddhist school in Colombo where provides primary and secondary education for Sri Lankan boys. The school was established by P. de S. Kularatne as an offshoot of Ananda College Colombo and was registered as a separate school on 1 November 1925.",
+        "location": {
+            "latitude": 6.923703053057881,
+            "longitude": 79.87511327181915
+        },
+        "isFavorite": false,
+        "imageName": "nalanda"
+    },
+    {
+        "name": "Royal College",
+        "district": "Colombo",
+        "description": "Royal College (Sinhala: රාජකීය විද්‍යාලය Rājakīya Vidyālaya; Tamil: றோயல் கல்லூரி Royal Kalloori) is a selective entry boys' school located in Colombo, Sri Lanka. Started as a private school by Rev Joseph Marsh in 1835, it was established as the Colombo Academy by Sir Robert Wilmot-Horton in January 1836, as part of the implementation of the recommendations of the Colebrooke Cameron Commission (1833), and was the first government-run secondary school for boys in the island.",
+        "location": {
+            "latitude": 6.90537083996716,
+            "longitude": 79.86117731998311
+        },
+        "isFavorite": false,
+        "imageName": "royal"
+    },
+    {
+        "name": "Sirimavo Vidyalaya",
+        "district": "Colombo",
+        "description": "Sirimavo Bandaranaike Vidyalaya is one of the leading Public Girls schools in Colombo, Sri Lanka. It is a National public school controlled by the central government, provide primary and secondary education.",
+        "location": {
+            "latitude": 6.897081519274733,
+            "longitude": 79.86304802977143
+        },
+        "isFavorite": true,
+        "imageName": "sirimavo"
+    },
+    {
+        "name": "Visakha Vidyalaya",
+        "district": "Colombo",
+        "description": "Visakha Vidyalaya (Sinhala: විශාඛා විද්‍යාලය) is a girls' school in Colombo, Sri Lanka. It is a National School managed by the central government providing primary and secondary education.",
+        "location": {
+            "latitude": 6.8926713239797115,
+            "longitude": 79.85960800000791
+        },
+        "isFavorite": false,
+        "imageName": "visakha"
+    }
+]
